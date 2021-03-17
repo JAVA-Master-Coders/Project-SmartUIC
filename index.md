@@ -1,4 +1,3 @@
-## Smart Underground Injection Control with Blockchain Technology
-
-### Features
+## SmartInjection
+### Underground Injection Control with Blockchain Technology
 
